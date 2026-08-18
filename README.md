@@ -1,7 +1,6 @@
 # 🎓 Formulário de Matrícula - Estrelas do Amanhã
 Este é um projeto de interface web desenvolvido para o processo de matrícula de uma escola de educação infantil fictícia. O objetivo principal foi criar um formulário completo, responsivo e visualmente agradável, aplicando boas práticas de marcação HTML e estilização CSS.
 
----
 
 ## 🚀 Tecnologias Utilizadas
 Este projeto foi construído utilizando apenas tecnologias web básicas:
@@ -18,7 +17,6 @@ Customização de formulários (inputs, textareas, checkboxes e radio buttons pe
 
 Importação de fontes via Google Fonts.
 
----
 
 ## 💡 Principais Aprendizados
 Como este é o meu primeiro projeto, este desenvolvimento foi fundamental para consolidar conhecimentos em:
@@ -31,7 +29,6 @@ Design Web: Uso de elementos visuais (ícones e ilustrações) para criar uma ex
 
 Boas práticas de organização: Divisão de pastas entre styles e assets para manter o código limpo.
 
----
 
 ## 📦 Como rodar o projeto
 Clone este repositório em sua máquina:
@@ -42,7 +39,6 @@ Abra a pasta do projeto no seu editor de código (como o VS Code).
 
 Abra o arquivo index.html no seu navegador favorito ou utilize a extensão Live Server para visualizar as alterações em tempo real.
 
----
 
 ## 🖼️ Prévia
 
