@@ -1,4 +1,4 @@
-#🎓 Formulário de Matrícula - Estrelas do Amanhã
+# 🎓 Formulário de Matrícula - Estrelas do Amanhã
 Este é um projeto de interface web desenvolvido para o processo de matrícula de uma escola de educação infantil fictícia. O objetivo principal foi criar um formulário completo, responsivo e visualmente agradável, aplicando boas práticas de marcação HTML e estilização CSS.
 
 ---
